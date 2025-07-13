@@ -19,6 +19,7 @@
               "index",
               "introduction",
               "prerequisites",
+              "rpc-configuration",
               "shardeum-methods",
               "ethereum-methods",
               "shardeumapi-class",
